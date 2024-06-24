@@ -1,0 +1,32 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0;
+}
+.note{
+    font-size: 15px;
+    color:black;
+}
+body{
+    background-size: cover;
+}
+
+h3{
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas{
+    border: 5px;
+    padding:10px;
+    box-shadow: 3px 3px 3px grey;
+    margin:10px;
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.play_button{
+    width:130px;
+    font-size: 25px;
+}
